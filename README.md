@@ -33,11 +33,11 @@ Técnicas como **manipulação de eventos** e **interação com listas** garante
 ## 📂 Estrutura do Projeto
 
 lanchonete/
-│── venv/                # Ambiente virtual
+│── .gitignore          # Arquivo para ignorar venv, caches e temporários
+│── README.md           # Documentação do projeto
+│── venv/               # Ambiente virtual (IGNORADO pelo Git)
 │── SaborRapidoApp/
-│   └── loja.py          # Código principal da aplicação
-└── README.md            # Documentação do projeto
-
+│   └── loja.py         # Código principal da aplicação
 
 ---
 
