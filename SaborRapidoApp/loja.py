@@ -51,7 +51,7 @@ class SaborRapidoApp:
             messagebox.showinfo("Pedido", "Adcione itens antes de finalizar o pedido.")
             return
         total = sum(self.itens_menu[item] for item in self.pedido)
-        messagebox.showinfo("Total", f"Total do pedido: R$ {total:2.f}\nPedido finalizado")
+        messagebox.showinfo("Total", f"Total do pedido: R$ {total:.2f}\nPedido finalizado")
         self.pedido.clear()
         
     def adicionar_item_menu(self):

@@ -59,7 +59,6 @@ python SaborRapidoApp/loja.py
 ## 📸 Demonstração
 ![Demonstração da aplicação](SaborRapidoApp/image.png)
 
-
 ## 📌 Objetivo Acadêmico
 
 Este projeto tem caráter didático e foi desenvolvido para demonstrar:
