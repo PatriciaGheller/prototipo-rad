@@ -25,7 +25,7 @@ Técnicas como **manipulação de eventos** e **interação com listas** garante
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-- **Python 3.x**
+- **Python 3.13.1**
 - **Tkinter** (biblioteca padrão para GUIs em Python)
 
 ---
