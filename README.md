@@ -57,7 +57,8 @@ source venv/bin/activate  # Linux/macOS
 python SaborRapidoApp/loja.py
 
 ## 📸 Demonstração
-![alt text](image.png)
+![Demonstração da aplicação](SaborRapidoApp/image.png)
+
 
 ## 📌 Objetivo Acadêmico
 
